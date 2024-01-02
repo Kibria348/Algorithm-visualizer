@@ -26,7 +26,7 @@ that the parents of B, C, and D in the minimum spanning tree are A, B, and A res
 
 # General Info
 
-To learn more about this project, please visit [HyperSkill Website - Graph-Algorithms Visualizer](https://hyperskill.org/projects/207).
+
 
 This project's difficulty has been labelled as __Challenging__ where this is how
 HyperSkill describes each of its four available difficulty levels:
